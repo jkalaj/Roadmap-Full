@@ -1,0 +1,85 @@
+# Node.js
+node_modules/
+**/node_modules/
+/node_modules
+/roadmap-frontend/node_modules
+/.pnp
+.pnp.js
+/coverage
+/build
+.DS_Store
+*.pem
+*.log
+.env
+.env*.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-error.log*
+# Next.js
+.next/
+**/.next/
+/.next/
+/out/
+/roadmap-frontend/.next/
+/roadmap-frontend/out/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.hypothesis/
+.pytest_cache/
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# SQLite database file (if you want to commit a template but not the working file)
+# data.sql # Uncomment if you don't want to commit the actual data
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw? 
